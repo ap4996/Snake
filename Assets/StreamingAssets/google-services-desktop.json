@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "153685530459",
+    "firebase_url": "https://saanp-7445b.firebaseio.com",
+    "project_id": "saanp-7445b",
+    "storage_bucket": "saanp-7445b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153685530459:android:0a14fcfd718e26c3",
+        "android_client_info": {
+          "package_name": "com.AP.Snake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOkvAXc-VjyECOTjTIK4i-esTbpB4rJ48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153685530459-g60v6rd35tdbh4uqnmsub8e217pgn0u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

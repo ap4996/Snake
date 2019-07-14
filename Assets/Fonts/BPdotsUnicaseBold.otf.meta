@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4bfce2337c4860d45a05bb03e5b9e94d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BPdotsUnicase
+  fontNames:
+  - BPdotsUnicase
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2948094463f1b4143802ed40fa0e2451, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
